@@ -1,2 +1,3 @@
 As a current Oakland University student pursuing a Bachelor of Science in Cybersecurity, I am seeking to gain hands-on experience through a cybersecurity engineering internship. With over eight years of volunteering at my local mosque and several months as a digital advancement ambassador, I have developed strong organizational and communication skills that I can apply to the professional world. I have a solid foundation of HTML/CSS dating all the way back to high school, and an excellent understanding of C++ and the object-oriented aspect of Java. Finally, I'm rapidly learning Python, Information Technology skills, computer systems, computer networking, ethical hacking, and the Windows CMD, as well as the Mac/Linux terminal
+
 Reach me anytime at mtanvvir@oakland.edu!
